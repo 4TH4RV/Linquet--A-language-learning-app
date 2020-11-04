@@ -29,4 +29,7 @@ main.py
 <img src="https://i.imgur.com/H5Vstsn.png" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." />
 
 ---
+Discord: Nomz#2168
+
+---
 ##### Attributions in attribution folder.
